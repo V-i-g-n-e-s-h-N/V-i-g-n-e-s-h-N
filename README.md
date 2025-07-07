@@ -4,6 +4,7 @@ I am passionate about building products and solutions that have the potential to
 I am currently learning about disruptive software and honing my technical skills. 
 I’m looking for any interesting and challenging ideas to work on!
 
+[Google Scholar](https://scholar.google.com/citations?user=M2C0vyQAAAAJ&hl=en)
 
 <!--
 **V-i-g-n-e-s-h-N/V-i-g-n-e-s-h-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
